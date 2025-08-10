@@ -2,7 +2,7 @@
 export const appName = 'courseben';
 export const companyName = 'Courseben Technologies';
 export const websiteURL = 'https://courseben.com';
-export const serverURL = https://courseben.com';
+export const serverURL = 'https://courseben.com';
 export const appLogo = 'https://firebasestorage.googleapis.com/v0/b/aicourse-81b42.appspot.com/o/aicouse.png?alt=media&token=7175cdbe-64b4-4fe4-bb6d-b519347ad8af';
 export const razorpayEnabled = true;
 export const paypalEnabled = true;
@@ -64,4 +64,5 @@ export const facebookClientId = "8065327730213158";
 //SOCIAL MEDIA
 export const facebookSocialLink = "https://www.youtube.com/@techcodebreaker";
 export const twitterSocialLink = "https://www.youtube.com/@techcodebreaker";
+
 export const instagramSocialLink = "https://www.youtube.com/@techcodebreaker";
