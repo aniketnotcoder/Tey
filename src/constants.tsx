@@ -1,8 +1,8 @@
 //BRAND
 export const appName = 'courseben';
 export const companyName = 'Courseben Technologies';
-export const websiteURL = 'https://courseben.com';
-export const serverURL = 'https://courseben.com';
+export const websiteURL = 'http://localhost:4173';
+export const serverURL = 'http://localhost:5000';
 export const appLogo = 'https://firebasestorage.googleapis.com/v0/b/aicourse-81b42.appspot.com/o/aicouse.png?alt=media&token=7175cdbe-64b4-4fe4-bb6d-b519347ad8af';
 export const razorpayEnabled = true;
 export const paypalEnabled = true;
@@ -66,3 +66,4 @@ export const facebookSocialLink = "https://www.youtube.com/@techcodebreaker";
 export const twitterSocialLink = "https://www.youtube.com/@techcodebreaker";
 
 export const instagramSocialLink = "https://www.youtube.com/@techcodebreaker";
+
